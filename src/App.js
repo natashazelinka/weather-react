@@ -5,13 +5,15 @@ export default function App() {
     <div className="App">
       <div className="container">
         <footer>
-          Coded by Natasha Zelinka{" "}
+          Coded by Natasha Zelinka,{" "}
           <a
             href="https://github.com/natashazelinka/weather-react"
+            target="_blank"
             rel="noreferrer"
           >
-            open-source code on GitHub 👩‍💻
+            open-source code
           </a>{" "}
+          on GitHub.
         </footer>
       </div>
     </div>
